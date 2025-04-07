@@ -1,15 +1,15 @@
 /build/
-/build/*
+/build/**
 
-./.classpath
+.classpath
 
-./.project
+.project
 
 /.settings/
-/.settings/*
+/.settings/**
 
 /src/main/webapp/META-INF/
-/src/main/webapp/META-INF/*
+/src/main/webapp/META-INF/**
 
 /src/main/webapp/WEB-INF/
-/src/main/webapp/WEB-INF/*
+/src/main/webapp/WEB-INF/**
